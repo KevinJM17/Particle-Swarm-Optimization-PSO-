@@ -14,7 +14,7 @@ Step 4: Terminate on some condition
 
 Step 5: Go to step 2.
 
-# Velocity Updation
+# Velocity Updation (Max velocity, Vmax = 20)
 Vi(t + 1) = W.Vi(t) + C1.r1.(pbesti - xi(t)) + C2.r2.(gbest - xi(t))
 
 W -> weight factor
