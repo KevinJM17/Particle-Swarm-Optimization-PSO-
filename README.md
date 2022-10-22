@@ -1,5 +1,5 @@
-# Principle Swarm Optimization
-Principle Swarm Optimization (PSO) is an artificial intelligence technique that can be used to find appropriate solution to complex maximization and minimization problems. 
+# Particle Swarm Optimization
+Particle Swarm Optimization (PSO) is an artificial intelligence technique that can be used to find appropriate solution to complex maximization and minimization problems. 
 
 In this repository I have performed PSO on the equation: y = -15 (Sin(2x)^2 - (x-2)^2 + 160), to get the optimal position of x to obtain the maximum of the function.
 
